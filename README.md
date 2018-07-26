@@ -1,6 +1,7 @@
 # Bit_Paint_POO
+Game of life implementation to OOP subject on university.
 
-This is an assigment to the OOP subject. In the sample_files folder you can find some sample txt files to load on the program.
+In the sample_files folder you can find some sample txt files to load on the program.
 
 The compiled program can be found on the dist folder.
 
